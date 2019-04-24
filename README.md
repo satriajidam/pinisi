@@ -1,2 +1,2 @@
 # pinisi
-Kubernetes apps &amp; services deployment manager.
+CLI app for managing containerized apps in Kubernetes. 
