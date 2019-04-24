@@ -1,2 +1,2 @@
 # pinisi
-CLI app for managing containerized apps in Kubernetes. 
+All in one CLI app for managing containerized apps in Kubernetes. 
