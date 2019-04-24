@@ -1,7 +1,7 @@
 # pinisi
 All in one CLI app for managing containerized apps in Kubernetes. 
 
-## Dependencies
+## Core Dependencies
 
 * [go-chi/chi](https://github.com/go-chi/chi)
 
@@ -14,6 +14,10 @@ All in one CLI app for managing containerized apps in Kubernetes.
 * [k8s.io/apimachinery](https://github.com/kubernetes/apimachinery)
 
 * [k8s.io/client-go](https://github.com/kubernetes/client-go)
+
+* [docker/client](https://github.com/docker/docker/client)
+
+* [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
 
 ## License
 
