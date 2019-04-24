@@ -1,7 +1,7 @@
 # pinisi
 All in one CLI app for managing containerized apps in Kubernetes. 
 
-## Core Dependencies
+## Credits
 
 * [go-chi/chi](https://github.com/go-chi/chi)
 
