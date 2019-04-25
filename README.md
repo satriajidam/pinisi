@@ -3,21 +3,13 @@ All in one CLI app for managing containerized apps in Kubernetes.
 
 ## Credits
 
-* [go-chi/chi](https://github.com/go-chi/chi)
+Some features of Pinisi's were inspired by following apps/tools: 
 
-* [spf13/cobra](https://github.com/spf13/cobra)
+* [Ruangguru](https://ruangguru.com/)'s Rogu CLI. 
 
-* [wercker/stern](https://github.com/wercker/stern)
+* [Wercker](http://wercker.com/)'s [Stern](https://github.com/wercker/stern) Kubernetes log viewer.
 
-* [k8s.io/api](https://github.com/kubernetes/api)
-
-* [k8s.io/apimachinery](https://github.com/kubernetes/apimachinery)
-
-* [k8s.io/client-go](https://github.com/kubernetes/client-go)
-
-* [docker/client](https://github.com/docker/docker/client)
-
-* [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+* Fernand Galiana's [K9s](https://k9ss.io).
 
 ## License
 
