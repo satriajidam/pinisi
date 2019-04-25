@@ -1,6 +1,6 @@
 # pinisi
 
-Pinisi is an all-in-one tool to turn your Kubernetes cluster into a PaaS. 
+Pinisi is an all-in-one tool to turn your Kubernetes cluster into a self-managed PaaS. 
 The system consists of a server app deployed inside Kubernetes and a client CLI app used to communicate with the server.
 Both components will work together to make it easier for operators and developers to manage containerized apps creation and deployment to Kubernetes. 
 
